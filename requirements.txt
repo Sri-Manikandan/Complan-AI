@@ -10,6 +10,7 @@ boto3==1.35.4
 botocore==1.35.4
 cachetools==5.5.0
 certifi==2024.7.4
+chardet==5.2.0
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
@@ -66,6 +67,7 @@ packaging==24.1
 pandas==2.2.2
 pathos==0.3.2
 pillow==10.2.0
+plotly==5.24.0
 pox==0.3.4
 ppft==1.7.6.8
 proto-plus==1.24.0
@@ -86,6 +88,7 @@ pytz==2024.1
 PyYAML==6.0.2
 referencing==0.35.1
 regex==2024.7.24
+reportlab==4.2.2
 requests==2.32.3
 rich==13.7.1
 rpds-py==0.20.0
